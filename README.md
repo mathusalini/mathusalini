@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is Mathusalini
+This is Mathusalini, interested in engineering
 
 <!--
 **mathusalini/mathusalini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
